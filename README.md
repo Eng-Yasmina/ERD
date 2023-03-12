@@ -1,21 +1,21 @@
 # ITI CMS track LAB 1
 This project is about ERD
 # Demo Preview
-## Musician
+# Musician
 ![lab-1-yasmine.jpg](./images/ERD1.png)
 ![lab-2-yasmine.jpg](./images/ERD2.jpg)
-## Sale Office
+# Sale Office
 ![lab-1-yasmine.jpg](./images/ERD10.jpg)
 ![lab-1-yasmine.jpg](./images/ERD11.jpg)
-## Hospital
+# Hospital
 ![lab-6-yasmine.jpg](./images/ERD6.jpg)
 ![lab-1-yasmine.jpg](./images/ERD7.jpg)
 ![lab-1-yasmine.jpg](./images/ERD-7.7.jpg)
-## Airline
+# Airline
 ![lab-3-yasmine.jpg](./images/ERD3.jpg)
 ![lab-4-yasmine.jpg](./images/ERD4.jpg)
 ![lab-5-yasmine.jpg](./images/ERD5.jpg)
-## Bank
+# Bank
 ![lab-1-yasmine.jpg](./images/ERD8.jpg)
 ![lab-1-yasmine.jpg](./images/ERD9.jpg)
 ![lab-1-yasmine.jpg](./images/ERD12.jpg)
