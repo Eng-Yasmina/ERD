@@ -14,7 +14,6 @@ This project is about ERD
 # Airline
 ![lab-3-yasmine.jpg](./images/ERD3.jpg)
 ![lab-4-yasmine.jpg](./images/ERD4.jpg)
-![lab-5-yasmine.jpg](./images/ERD5.jpg)
 # Bank
 ![lab-1-yasmine.jpg](./images/ERD8.jpg)
 ![lab-1-yasmine.jpg](./images/ERD9.jpg)
