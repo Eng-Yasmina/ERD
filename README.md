@@ -11,7 +11,7 @@ This project is about ERD
 ## Hospital
 ![lab-6-yasmine.jpg](./images/ERD6.jpg)
 ![lab-1-yasmine.jpg](./images/ERD7.jpg)
-![lab-1-yasmine.jpg](./images/EDR-7.7.jpg)
+![lab-1-yasmine.jpg](./images/ERD-7.7.jpg)
 ## Bank
 ![lab-1-yasmine.jpg](./images/ERD8.jpg)
 ![lab-1-yasmine.jpg](./images/ERD9.jpg)
