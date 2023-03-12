@@ -2,7 +2,7 @@
 This project is about ERD
 # Demo Preview
 ## Musician
-![lab-1-yasmine.jpg](./images/ERD1.png)
+![lab-1-yasmine.jpg](./images/ERD.png)
 ![lab-2-yasmine.jpg](./images/ERD2.jpg)
 ## Sale Office
 ![lab-1-yasmine.jpg](./images/ERD10.jpg)
