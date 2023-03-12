@@ -15,10 +15,11 @@ This project is about ERD
 ## Bank
 ![lab-1-yasmine.jpg](./images/ERD8.jpg)
 ![lab-1-yasmine.jpg](./images/ERD9.jpg)
+![lab-1-yasmine.jpg](./images/ERD12.jpg)
 ## Sale Office
 ![lab-1-yasmine.jpg](./images/ERD10.jpg)
 ![lab-1-yasmine.jpg](./images/ERD11.jpg)
-![lab-1-yasmine.jpg](./images/ERD12.jpg)
+
 
 
 
